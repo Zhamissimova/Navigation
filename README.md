@@ -31,7 +31,7 @@ If you would like to use GPU,  then you will need to firstly go through parts 1,
 The Unity ML-Agent team frequently releases updated versions of their environment. We are using the v0.4 interface. To avoid any confusion, please use the workspace we provide here or work with v0.4 locally.
 
 ### Useful links:
-You can study DQN paper [here](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
-More about Unity agents [here](https://github.com/Unity-Technologies/ml-agents)
-More about Udacity Deep Reinforcement Learning [here](https://udacity.com)
-If you got really excited about RL, then you can read book written by “father” of Reinforcement Learning [here](http://incompleteideas.net/book/the-book-2nd.html)
+* You can study DQN paper [here](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+* More about Unity agents [here](https://github.com/Unity-Technologies/ml-agents)
+* More about Udacity Deep Reinforcement Learning [here](https://udacity.com)
+* If you got really excited about RL, then you can read book written by “father” of Reinforcement Learning [here](http://incompleteideas.net/book/the-book-2nd.html)
